@@ -15,24 +15,6 @@ This repository helps automate repetitive tasks like service management, backups
 ✔ Installation & configuration helpers  
 ✔ Structured folders for Apache, Docker, Jenkins, Terraform, Nginx, Minikube, JDK, and more  
 
----
-
-## 📁 Repository Structure
-
-linux-devops-automation/
-├── Apache/
-├── Docker/
-├── JDK/
-├── Jenkins/
-├── Minikube/
-├── Nginx/
-├── Python File Sorter/
-├── Terraform/
-├── .gitignore
-├── LICENSE
-└── README.md
-
-
 - **Apache/** – Scripts for Apache installation & monitoring  
 - **Docker/** – Docker related automation scripts  
 - **JDK/** – Java JDK installation & configuration  
